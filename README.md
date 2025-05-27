@@ -21,7 +21,7 @@ Good naming conventions are crucial for:
 - **Scalability** - Consistent patterns prevent technical debt as the codebase grows
 
 ### Tech Stack Context
-*React 17 + TypeScript 5 + Ant Design 4 + Nx Monorepo*
+*React + TypeScript
 
 ## Table of Contents
 1. [Core Principles](#core-principles)
